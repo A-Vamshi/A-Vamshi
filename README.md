@@ -5,7 +5,7 @@
 I'm a third-year undergraduate specializing in Artificial Intelligence and Machine Learning. Since my first year, I have gained hands-on experience with a wide range of frameworks and technologies. My passion lies in exploring cutting-edge tools, developing innovative projects, and continuously improving by overcoming challenges and solving problems. </br>
 
 🧑🏻‍💻This is my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/a-vamshi) </br>
-🔖Check out my [Machine Learning Blog](www.vamshi.study) </br>
+🔖Check out my [Machine Learning Blog](https://vamshi.study) </br>
 
 
 # 💻 Tech Stack:
