@@ -1,6 +1,6 @@
 # Hi, I'm Vamshi
 
-**`Explorer | Inventer `**
+**`Explorer | Inventor `**
 
 I'm a third-year undergraduate specializing in Artificial Intelligence and Machine Learning. Since my first year, I have gained hands-on experience with a wide range of frameworks and technologies. My passion lies in exploring cutting-edge tools, developing innovative projects, and continuously improving by overcoming challenges and solving problems. </br>
 
